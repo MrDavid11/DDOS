@@ -21,7 +21,7 @@ pkg install python3 -y
 
 git clone https://github.com/MrDavid11/DDOS.git
 
-cd DDOOS $ ls
+cd DDOS $ ls
 
 $ python3 DDOS
 
