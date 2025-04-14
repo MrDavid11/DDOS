@@ -25,6 +25,18 @@ cd DDOS $ ls
 
 $ python3 DDOS
 
+For Debian-based GNU/Linux distributions
+
+
+
+
+git clone https://github.com/MrDavid11/DDOS.git
+
+cd DDOS $ ls
+
+$ python3 DDOS
+
+
 
 Requirments ▶
 
