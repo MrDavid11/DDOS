@@ -10,7 +10,7 @@ DDoS attacks achieve effectiveness using multiple compromised computer systems a
 
 
 
-To use the DRipper type the following commands in Termux:
+To use the DDOS type the following commands in Termux:
 
 
 pkg install git -y
